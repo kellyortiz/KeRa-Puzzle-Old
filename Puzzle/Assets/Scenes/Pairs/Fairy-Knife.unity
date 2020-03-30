@@ -149,6 +149,11 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 4473763502638271590, guid: 5cde3679df180fb4581309c81955507a,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5788832760192451786, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -283,12 +288,12 @@ PrefabInstance:
         type: 3}
       propertyPath: audioClips.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: f8e7d27ff9c245f4582fbb654947ed68, type: 3}
+      objectReference: {fileID: 8300000, guid: cc607ef53d04b334d83188778cd76b5b, type: 3}
     - target: {fileID: 8223104383404999393, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: audioClips.Array.data[1]
       value: 
-      objectReference: {fileID: 8300000, guid: 0ef057c1460d4be45917a29b0af3a4a0, type: 3}
+      objectReference: {fileID: 8300000, guid: 1da715127d8ddac49867a052d8eb460f, type: 3}
     - target: {fileID: 8937272679911892283, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_AnchoredPosition.y

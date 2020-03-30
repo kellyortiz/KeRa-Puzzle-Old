@@ -279,6 +279,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: CanvasPairs
       objectReference: {fileID: 0}
+    - target: {fileID: 8223104383404999393, guid: 5cde3679df180fb4581309c81955507a,
+        type: 3}
+      propertyPath: audioClips.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 683981455c5714c4a98ca022efb5b14f, type: 3}
+    - target: {fileID: 8223104383404999393, guid: 5cde3679df180fb4581309c81955507a,
+        type: 3}
+      propertyPath: audioClips.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 7916b718f7660ce44a29b0f52cfb6181, type: 3}
     - target: {fileID: 8684178962547552230, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: orthographic size
