@@ -214,7 +214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
+  m_FirstSelected: {fileID: 212026099}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
 --- !u!4 &701794690
@@ -330,6 +330,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -158
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 8453d4ac0b5ea38488128bb7c0d26057, type: 3}
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 0.526
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: reverbZoneMixCustomCurve.m_Curve.Array.data[0].value
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_Pitch
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5788832760192451786, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
@@ -490,7 +510,7 @@ PrefabInstance:
         type: 3}
       propertyPath: audioClips.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: f12d5596a5c67764a8d76484d81759b3, type: 3}
+      objectReference: {fileID: 8300000, guid: 8453d4ac0b5ea38488128bb7c0d26057, type: 3}
     - target: {fileID: 8223104383404999393, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: audioClips.Array.data[1]

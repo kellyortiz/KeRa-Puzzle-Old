@@ -209,6 +209,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 0.526
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: reverbZoneMixCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5788832760192451786, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -363,7 +373,7 @@ PrefabInstance:
         type: 3}
       propertyPath: audioClips.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: bbb8fbae31ce6934a9268373f9884be1, type: 3}
+      objectReference: {fileID: 8300000, guid: df7823e1dfe43974da018570696cdc4f, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57606fb2af8639b45a1dce21f3767f8b, type: 3}
 --- !u!1 &831317557 stripped

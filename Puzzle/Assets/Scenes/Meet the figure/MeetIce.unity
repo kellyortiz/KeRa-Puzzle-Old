@@ -253,6 +253,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4473763502638271590, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 0.526
+      objectReference: {fileID: 0}
     - target: {fileID: 5788832760192451786, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -407,7 +412,7 @@ PrefabInstance:
         type: 3}
       propertyPath: audioClips.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: ee0361da881233548aaf291a647522e4, type: 3}
+      objectReference: {fileID: 8300000, guid: 0922e83a86aff1e4297f83c6f274c12a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57606fb2af8639b45a1dce21f3767f8b, type: 3}
 --- !u!1 &1275686248 stripped
