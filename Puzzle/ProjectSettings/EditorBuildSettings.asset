@@ -161,4 +161,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pairs/Saddle-OldWoman.unity
     guid: 8a218167781a55748960463157ae7288
+  - enabled: 1
+    path: Assets/Scenes/Cat.unity
+    guid: 412769294216f2743a68fc541729469c
   m_configObjects: {}
