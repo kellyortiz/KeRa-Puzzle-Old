@@ -27,6 +27,7 @@ public class Manager : MonoBehaviour
         if (id == correct_index)
         {
             Debug.Log("Certa");
+            //Button Enable aqui
         }
         else
         {
