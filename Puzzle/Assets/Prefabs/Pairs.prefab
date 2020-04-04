@@ -959,6 +959,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 531dcec755f0aba49bd3e5578d6e1301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imagemWin: {fileID: 0}
+  audioWin: {fileID: 0}
   audioSource: {fileID: 4473763502638271590}
   audioClips:
   - {fileID: 0}
