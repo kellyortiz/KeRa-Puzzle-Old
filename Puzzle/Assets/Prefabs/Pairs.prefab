@@ -611,7 +611,7 @@ GameObject:
   - component: {fileID: 3564193091459862934}
   - component: {fileID: 5392124995099411266}
   m_Layer: 5
-  m_Name: CanvasPairs
+  m_Name: Pairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -963,6 +963,7 @@ MonoBehaviour:
   audioClips:
   - {fileID: 0}
   - {fileID: 0}
+  correct_index: 0
 --- !u!82 &4473763502638271590
 AudioSource:
   m_ObjectHideFlags: 0

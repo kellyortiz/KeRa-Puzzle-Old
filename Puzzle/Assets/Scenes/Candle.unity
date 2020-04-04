@@ -190,6 +190,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d0378755d809db24f82856c78bc07403, type: 3}
+--- !u!114 &301566272 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1132035638}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1086529141c000f4caffab6197a6a9eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &715410730
 GameObject:
   m_ObjectHideFlags: 0
@@ -704,6 +716,36 @@ PrefabInstance:
       propertyPath: button
       value: 
       objectReference: {fileID: 2121590140}
+    - target: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+        type: 3}
+      propertyPath: music
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+        type: 3}
+      propertyPath: imagem
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+        type: 3}
+      propertyPath: p1
+      value: 
+      objectReference: {fileID: 715410733}
+    - target: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+        type: 3}
+      propertyPath: p2
+      value: 
+      objectReference: {fileID: 1748928136}
+    - target: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+        type: 3}
+      propertyPath: p4
+      value: 
+      objectReference: {fileID: 833564172}
+    - target: {fileID: 3360442386548530414, guid: 6bfdf42c6aa72b247a874267b528905a,
+        type: 3}
+      propertyPath: p3
+      value: 
+      objectReference: {fileID: 2036969905}
     - target: {fileID: 3360442386548530415, guid: 6bfdf42c6aa72b247a874267b528905a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -943,6 +985,8 @@ MonoBehaviour:
   p3: {fileID: 0}
   p4: {fileID: 0}
   button: {fileID: 0}
+  music: {fileID: 0}
+  imagem: {fileID: 0}
 --- !u!1 &1419966036
 GameObject:
   m_ObjectHideFlags: 0
@@ -1058,6 +1102,8 @@ MonoBehaviour:
   p3: {fileID: 0}
   p4: {fileID: 0}
   button: {fileID: 2121590140}
+  music: {fileID: 0}
+  imagem: {fileID: 0}
 --- !u!4 &1486453234
 Transform:
   m_ObjectHideFlags: 0
@@ -1452,7 +1498,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1486453233}
+      objectReference: {fileID: 301566272}
     - target: {fileID: 2784355571972506564, guid: 279e4e6c5b5a97447b52d09498317335,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
@@ -1477,6 +1523,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -3.0749817
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 32.600006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 6.1499996
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.47433335
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.1997361
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784355571972506565, guid: 279e4e6c5b5a97447b52d09498317335,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5873334
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 279e4e6c5b5a97447b52d09498317335, type: 3}
