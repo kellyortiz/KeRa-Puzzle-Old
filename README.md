@@ -5,6 +5,7 @@ The game will be created using the Unity Engine for desktop and will feature act
 ### Figures
 
 Most of the figures were removed from the site: https://www.flaticon.com/ (Remembering that they are free for personal use)
+
 The images were assembled and changed in the program: Adobe XD
 
 ### Audio
