@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 
     void Start()
     {
-        button.SetActive(true);
+
     }
     public void Proximo(string scene)
         {
