@@ -534,22 +534,22 @@ PrefabInstance:
     - target: {fileID: 7436239891938928000, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 13.4
+      value: -47.1
       objectReference: {fileID: 0}
     - target: {fileID: 7436239891938928000, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 197.5
+      value: 318.6
       objectReference: {fileID: 0}
     - target: {fileID: 7436239891938928000, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -259.3
+      value: -214.03
       objectReference: {fileID: 0}
     - target: {fileID: 7436239891938928000, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 191.1
+      value: 281.65
       objectReference: {fileID: 0}
     - target: {fileID: 7813650541553817967, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
@@ -571,25 +571,30 @@ PrefabInstance:
       propertyPath: win
       value: 
       objectReference: {fileID: 908729964}
+    - target: {fileID: 8223104383404999393, guid: 5cde3679df180fb4581309c81955507a,
+        type: 3}
+      propertyPath: gameover
+      value: 
+      objectReference: {fileID: 971007575}
     - target: {fileID: 8937272679911892283, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 19
+      value: -47.1
       objectReference: {fileID: 0}
     - target: {fileID: 8937272679911892283, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 232.2
+      value: 329.1
       objectReference: {fileID: 0}
     - target: {fileID: 8937272679911892283, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 241
+      value: 219
       objectReference: {fileID: 0}
     - target: {fileID: 8937272679911892283, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 192.3
+      value: 281.1
       objectReference: {fileID: 0}
     - target: {fileID: 8947384516658649038, guid: 5cde3679df180fb4581309c81955507a,
         type: 3}
@@ -721,6 +726,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Win
       objectReference: {fileID: 0}
+    - target: {fileID: 1974598578452275092, guid: 0247837964cccc440bed65561d5782f8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0247837964cccc440bed65561d5782f8, type: 3}
 --- !u!1 &908729964 stripped
@@ -734,6 +744,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2983592848540521334, guid: 0247837964cccc440bed65561d5782f8,
     type: 3}
   m_PrefabInstance: {fileID: 908729963}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &971007575 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5759091051175026592, guid: 35933fcd441150d489f3062a88549a7b,
+    type: 3}
+  m_PrefabInstance: {fileID: 237937305}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1314063567
 GameObject:
