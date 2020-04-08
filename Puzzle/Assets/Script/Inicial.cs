@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class Inicial : MonoBehaviour
 {
-    public void InitGame()
+    public void InitScene(string scene)
     {
-        SceneManager.LoadScene("Fairy");
+        SceneManager.LoadScene(scene, LoadSceneMode.Single);
     }
     // Use this for initialization
     void Start()
