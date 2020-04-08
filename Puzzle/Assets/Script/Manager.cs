@@ -6,7 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class Manager : MonoBehaviour
 {
-    public GameObject win,gameover;
+    public GameObject win, gameover,pairs;
+    public Button Image1, Image2;
     public AudioSource audioSource;
     public AudioClip[] audioClips;
     public int correct_index;
@@ -33,13 +34,17 @@ public class Manager : MonoBehaviour
         if (id == correct_index)
         {
             Debug.Log("Certa");
+            audioSource.Pause();
             win.gameObject.SetActive(true);
-            
+            pairs.gameObject.SetActive(false);
+
         }
         else
         {
             gameover.gameObject.SetActive(true);
             Debug.Log("Errado");
+            audioSource.Pause();
+            pairs.gameObject.SetActive(false);
         }
     }
 

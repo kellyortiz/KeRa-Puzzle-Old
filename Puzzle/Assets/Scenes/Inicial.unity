@@ -694,8 +694,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.1, y: -61.3}
-  m_SizeDelta: {x: 343.1, y: 422.2}
+  m_AnchoredPosition: {x: 10.93, y: -63.4}
+  m_SizeDelta: {x: 341.96, y: 426.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2107498650
 MonoBehaviour:
@@ -739,7 +739,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2107498651}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 541802228}
+        m_MethodName: InitScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Fairy
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2107498651
 MonoBehaviour:
   m_ObjectHideFlags: 0
