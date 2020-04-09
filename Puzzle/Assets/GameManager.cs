@@ -29,6 +29,7 @@ public class GameManager : MonoBehaviour
     public void IsGameOver()
     {
         if (p1.locked && p2.locked && p3.locked && p4.locked)
+        
             button.SetActive(true);
     }
 

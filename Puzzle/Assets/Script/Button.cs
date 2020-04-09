@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
     public class Button : MonoBehaviour
     {
     public GameObject button;
+    internal bool interactable;
 
     void Start()
     {

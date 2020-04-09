@@ -1,13 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 
 public class Manager : MonoBehaviour
 {
     public GameObject win, gameover,pairs;
-    public Button Image1, Image2;
+    public Image Image1, Image2;
     public AudioSource audioSource;
     public AudioClip[] audioClips;
     public int correct_index;
@@ -36,9 +37,17 @@ public class Manager : MonoBehaviour
             Debug.Log("Certa");
             audioSource.Pause();
             win.gameObject.SetActive(true);
+
+            //Elimina a possibilidade de clicar nas imagens
+            Image1.enabled = false;
+            Image2.enabled = false;
+
             pairs.gameObject.SetActive(false);
 
+            
         }
+            
+        
         else
         {
             gameover.gameObject.SetActive(true);
