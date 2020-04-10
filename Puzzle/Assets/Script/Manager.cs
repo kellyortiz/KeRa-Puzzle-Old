@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class Manager : MonoBehaviour
 {
-    public GameObject win, gameover,pairs;
+    public GameObject win, gameover;
     public Image Image1, Image2;
     public AudioSource audioSource;
     public AudioClip[] audioClips;
@@ -33,27 +33,25 @@ public class Manager : MonoBehaviour
     {
        
         if (id == correct_index)
-        {
-            Debug.Log("Certa");
-            audioSource.Pause();
-            win.gameObject.SetActive(true);
-
-            //Elimina a possibilidade de clicar nas imagens
+        {          
+            //Elimina a possibilidade de clicar nas imagens e som
             Image1.enabled = false;
             Image2.enabled = false;
-
-            pairs.gameObject.SetActive(false);
-
+            audioSource.enabled = false;          
             
+            win.gameObject.SetActive(true);
+            Debug.Log("Certa");
         }
             
         
         else
         {
+            Image1.enabled = false;
+            Image2.enabled = false;
+            audioSource.enabled = false;
+            
             gameover.gameObject.SetActive(true);
             Debug.Log("Errado");
-            audioSource.Pause();
-            pairs.gameObject.SetActive(false);
         }
     }
 

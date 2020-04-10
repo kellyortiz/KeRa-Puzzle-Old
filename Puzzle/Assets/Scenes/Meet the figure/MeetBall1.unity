@@ -509,7 +509,7 @@ PrefabInstance:
     - target: {fileID: 7265373216998741711, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ProximaFase
+      value: Proximo
       objectReference: {fileID: 0}
     - target: {fileID: 7265373216998741711, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}

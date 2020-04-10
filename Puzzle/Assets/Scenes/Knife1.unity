@@ -378,7 +378,7 @@ PrefabInstance:
     - target: {fileID: 2784355571972506564, guid: 279e4e6c5b5a97447b52d09498317335,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: MeetKnife
+      value: MeetKnife1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 279e4e6c5b5a97447b52d09498317335, type: 3}
