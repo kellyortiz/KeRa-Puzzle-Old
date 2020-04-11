@@ -192,12 +192,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Finish.unity
     guid: 9f071677510ec47488475895bd3d22fa
   - enabled: 1
-    path: Assets/Scenes/Ball1.unity
-    guid: 954da1bb2847fe445b838cbeda4de813
-  - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: 1aabc6c8df759f14082e027bbc5711e3
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: e6f74f98e626be346913911fab5d0402
+  - enabled: 1
+    path: Assets/Scenes/Ball1.unity
+    guid: 54e860f3c4368ae44aafa3d3a0ce30d8
   m_configObjects: {}

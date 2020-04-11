@@ -331,6 +331,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -158
       objectReference: {fileID: 0}
+    - target: {fileID: 2883353293269700589, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 8453d4ac0b5ea38488128bb7c0d26057, type: 3}
     - target: {fileID: 4157456321357361047, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: audioClips.Array.size
@@ -340,7 +345,7 @@ PrefabInstance:
         type: 3}
       propertyPath: audioClips.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: 0d656c121235a5548a784d395a0225b8, type: 3}
+      objectReference: {fileID: 8300000, guid: 8453d4ac0b5ea38488128bb7c0d26057, type: 3}
     - target: {fileID: 4157456321357361047, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: audioSource

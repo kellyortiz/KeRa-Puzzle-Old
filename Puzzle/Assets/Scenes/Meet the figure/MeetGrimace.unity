@@ -133,6 +133,11 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 165637b8c24f452449f4a5325fa21fed, type: 3}
+    - target: {fileID: 4157456321357361047, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: audioClips.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 165637b8c24f452449f4a5325fa21fed, type: 3}
     - target: {fileID: 5788832760192451786, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_LocalPosition.x
