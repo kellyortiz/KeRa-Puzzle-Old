@@ -401,7 +401,7 @@ PrefabInstance:
     - target: {fileID: 7265373216998741711, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Fairy-Knife
+      value: Knife
       objectReference: {fileID: 0}
     - target: {fileID: 7813650541553817967, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
