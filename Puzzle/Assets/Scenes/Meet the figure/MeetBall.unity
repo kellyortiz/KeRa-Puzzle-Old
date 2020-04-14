@@ -324,12 +324,12 @@ PrefabInstance:
     - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 299
+      value: 305
       objectReference: {fileID: 0}
     - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -158
+      value: -156
       objectReference: {fileID: 0}
     - target: {fileID: 2883353293269700589, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
@@ -524,7 +524,7 @@ PrefabInstance:
     - target: {fileID: 7265373216998741711, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ProximaFase
+      value: Proximo
       objectReference: {fileID: 0}
     - target: {fileID: 7265373216998741711, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
