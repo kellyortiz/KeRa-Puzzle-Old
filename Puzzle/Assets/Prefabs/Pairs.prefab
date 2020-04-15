@@ -596,7 +596,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.882353, g: 0.85098046, b: 0.8196079, a: 0}
+  m_BackGroundColor: {r: 0.90588236, g: 0.7490196, b: 0.76862746, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -683,6 +683,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   win: {fileID: 0}
   gameover: {fileID: 0}
+  Image1: {fileID: 0}
+  Image2: {fileID: 0}
   audioSource: {fileID: 4473763502638271590}
   audioClips:
   - {fileID: 0}
