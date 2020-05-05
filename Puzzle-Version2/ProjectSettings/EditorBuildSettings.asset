@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicial.unity
+    guid: 3f162c5b75f663549aeb6236cdc503ba
+  - enabled: 1
+    path: Assets/Scenes/Candy.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Ball.unity
+    guid: a2ff0527ecf40b940b352d21012c9443
+  - enabled: 1
+    path: Assets/Scenes/Fairy.unity
+    guid: 196af86b5a5127849bb0eaeae9a71d6b
+  - enabled: 1
+    path: Assets/Scenes/Pen.unity
+    guid: 33206287a174aff4faf3250f33c6956d
+  - enabled: 1
+    path: Assets/Scenes/Seal.unity
+    guid: 6f4c4abeafa5ab24094bc28eee891421
+  - enabled: 1
+    path: Assets/Scenes/Battery.unity
+    guid: 1a61591484cc1904b85e1ef8be98cb71
+  - enabled: 1
+    path: Assets/Scenes/Cow.unity
+    guid: 5bb1cb3644754754db46c2147b7ea6ef
+  - enabled: 1
+    path: Assets/Scenes/Duck.unity
+    guid: 9b3f4d4ea1b420247bfbcea345ba7997
+  - enabled: 1
+    path: Assets/Scenes/Glue.unity
+    guid: ea3ba4e1d7784ca49946db769e0ce1c6
+  - enabled: 1
+    path: Assets/Scenes/Ice.unity
+    guid: 8b3c4a4f70b5cf946a400593f35c61ff
+  - enabled: 1
+    path: Assets/Scenes/Juice.unity
+    guid: 9f9d596e07b9de04e8c408f1d502121f
+  - enabled: 1
+    path: Assets/Scenes/OldWoman.unity
+    guid: 16c05ba8b1bec4d45a8f4852490651c5
+  - enabled: 1
+    path: Assets/Scenes/Punch.unity
+    guid: 785a71b87ef4085408127fd8204cdf1a
+  - enabled: 1
+    path: Assets/Scenes/Saddle.unity
+    guid: fa029f6ed18c29c43be6a84aded22630
+  - enabled: 1
+    path: Assets/Scenes/Grimace.unity
+    guid: e06a5602ca86c924192356532fb1f95f
+  - enabled: 1
+    path: Assets/Scenes/PineCone.unity
+    guid: 73486b0291792474f95e227d83136699
+  - enabled: 1
+    path: Assets/Scenes/Door.unity
+    guid: b1f9c6f604c132f4e98703a090c874df
+  - enabled: 1
+    path: Assets/Scenes/Knife.unity
+    guid: 86e966a8a7f03494296f6125930c9bf6
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetBall.unity
+    guid: 9f7e216a498c34441b4872098532237c
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetCandle.unity
+    guid: dc7dd1df6e0e8454ca8e36813e2b6f8f
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetCandy.unity
+    guid: 6b6639963f7227244a7207f7b876ca42
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetCow.unity
+    guid: d9d0beb14ca0c0b4481dcae28b3053de
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetDoor.unity
+    guid: 6a29f3fbe13e5524fb45ef4505bd531e
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetDuck.unity
+    guid: a2a6366f7c03534459abdc2175725936
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetFairy.unity
+    guid: 472094b5cea715a4987fbf32109cf55b
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetGlue.unity
+    guid: b7a4c13247252344e8271a319de0a4fa
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetGrimace.unity
+    guid: 47c1f1bae4370c84bbb1e7fb38359afb
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetIce.unity
+    guid: ef9a251ef07f5a141bd75dd1d5110978
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetJuice.unity
+    guid: 015d34c53c16aab43ad8dcab11d090f3
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetKnife.unity
+    guid: a41bcc6a238649449b35644ad36b3809
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetOldWoman.unity
+    guid: 24ee671ba863eaa41a0c0493987dd7f8
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetPen.unity
+    guid: a38d85c1a7971d2429eab371052cfc53
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetPie.unity
+    guid: 3167f5227f0273b41bc3296b1bea1430
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetPinecone.unity
+    guid: f96c42dc92a1c0146afe4831e2ce466c
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetPunch.unity
+    guid: ef2ba7927e452c14ea42feee6bf00b12
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetSaddle.unity
+    guid: b0738dc6df3b98b48ad10b1380bf5d4f
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetSeal.unity
+    guid: 23b822e835dcc1047a9712e6d48fda47
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Candy-Ball.unity
+    guid: 3d810f07f4bd81a439ccd45156a30e53
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Battery-PineCone.unity
+    guid: 489dec006eafb2347b266ba405d7e383
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Cow-Knife.unity
+    guid: 4e1507dae422d2547a5af576324d08e5
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Fairy-Knife.unity
+    guid: f0dbb1c9ce96cbe428a7904921eb3a33
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Glue-Ball.unity
+    guid: ec5212fae56db7645a4f8e18d8312f23
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Grimace - Pen.unity
+    guid: 9c9ee8097af8b174baff9d433ac06a10
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Ice-Seal.unity
+    guid: fb5e0de15da2cb045ba54cd98cf56850
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Juice-Punch.unity
+    guid: 5d3fcfe7e1e20b2498f3b02a0008af8f
+  - enabled: 1
+    path: Assets/Scenes/Pairs/OldWoman-Candle.unity
+    guid: becb19e6993796e4ea84c7993fc5ccaf
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Pie-Door.unity
+    guid: 7c33bdd07a840e34fb199e01a49553a5
+  - enabled: 1
+    path: Assets/Scenes/Cat.unity
+    guid: 412769294216f2743a68fc541729469c
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 30b297f6bf6af124d9a22460b0e802ad
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetKnife1.unity
+    guid: bc0a999b24a615c4580c06c5bd4405af
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetBall1.unity
+    guid: 0443bb3933e3c7548b93c88cd445e90c
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetCandle1.unity
+    guid: 016235ecf40953b4e879a6fd86a731aa
+  - enabled: 1
+    path: Assets/Scenes/Candle.unity
+    guid: 7f29ccc3f4a78d74680c6897c448e9e3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetCat.unity
+    guid: 25f7c941c18e2bf408b31520a2d14e9d
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Duck-Cat.unity
+    guid: 6888e1560da5e464083f5248f3342428
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Pie.unity
+    guid: 436fc2a11dc61994bac697f6ab313bba
+  - enabled: 1
+    path: Assets/Scenes/Meet the figure/MeetBattery.unity
+    guid: 2e25a97ec79f0774ab9c70123f1868d8
+  - enabled: 1
+    path: Assets/Scenes/Finish.unity
+    guid: 9f071677510ec47488475895bd3d22fa
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: 1aabc6c8df759f14082e027bbc5711e3
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e6f74f98e626be346913911fab5d0402
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Candle1.unity
+    guid: 3a53c4c95872e554cb889e0df1c548e1
+  - enabled: 1
+    path: Assets/Scenes/Knife1.unity
+    guid: cd445d1ae925c7843928d314703fcca3
+  - enabled: 1
+    path: Assets/Scenes/Ball1.unity
+    guid: 5ad36afc691787b4b9100e82869b2b98
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Saddle-Candle.unity
+    guid: 7d8ffa769fa61164384137654d6a9a0f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial5.unity
+    guid: 8aeb115d9de0ab543af096dd8c24eb75
+  - enabled: 1
+    path: Assets/Scenes/Tutorial4.unity
+    guid: 5033a5970ba87c94da6d3df1dd25d2de
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: e98d4ec9a2916cc49a20808b4d3fd71d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: e445829510b732e43965342873eff05d
+  m_configObjects: {}
