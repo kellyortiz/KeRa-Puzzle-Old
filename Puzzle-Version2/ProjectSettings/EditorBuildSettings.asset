@@ -11,9 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Candy.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Ball.unity
-    guid: a2ff0527ecf40b940b352d21012c9443
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Fairy.unity
     guid: 196af86b5a5127849bb0eaeae9a71d6b
@@ -221,4 +221,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tutorial2.unity
     guid: e445829510b732e43965342873eff05d
+  - enabled: 1
+    path: Assets/Scenes/Ball.unity
+    guid: 8de7dee006070684eb688da709aafde2
   m_configObjects: {}
