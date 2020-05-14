@@ -2,10 +2,6 @@
 
 The game will be created using the Unity Engine for desktop and will feature activities using minimum pairs which are: assembling puzzles and interpreting word phonemes that will be expressed by audio from a list of selected minimum pairs.
 
-### Screen/Display resolution
-
-The recommended resolution is 1920 x 1080
-
 ### Figures
 
 Most of the figures were removed from the site: https://www.flaticon.com/ (Remembering that they are free for personal use)
