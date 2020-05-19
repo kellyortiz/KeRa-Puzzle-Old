@@ -11,9 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Candy.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Ball.unity
-    guid: a2ff0527ecf40b940b352d21012c9443
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Fairy.unity
     guid: 196af86b5a5127849bb0eaeae9a71d6b
@@ -167,24 +167,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Candle.unity
     guid: 7f29ccc3f4a78d74680c6897c448e9e3
-  - enabled: 1
-    path: Assets/Scenes/Candle1.unity
-    guid: f07e9eb57bba9e74088ecf2175af5714
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Meet the figure/MeetCat.unity
     guid: 25f7c941c18e2bf408b31520a2d14e9d
   - enabled: 1
     path: Assets/Scenes/Pairs/Duck-Cat.unity
     guid: 6888e1560da5e464083f5248f3342428
-  - enabled: 1
-    path: Assets/Scenes/Knife1.unity
-    guid: 28cb81566cc9a9944bd5223e0bbf7ea8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Pie.unity
     guid: 436fc2a11dc61994bac697f6ab313bba
-  - enabled: 1
-    path: Assets/Scenes/Pairs/Saddle-Candle.unity
-    guid: 7d8ffa769fa61164384137654d6a9a0f
   - enabled: 1
     path: Assets/Scenes/Meet the figure/MeetBattery.unity
     guid: 2e25a97ec79f0774ab9c70123f1868d8
@@ -192,12 +189,42 @@ EditorBuildSettings:
     path: Assets/Scenes/Finish.unity
     guid: 9f071677510ec47488475895bd3d22fa
   - enabled: 1
-    path: Assets/Scenes/Tutorial.unity
+    path: Assets/Scenes/Tutorial1.unity
     guid: 1aabc6c8df759f14082e027bbc5711e3
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: e6f74f98e626be346913911fab5d0402
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Candle1.unity
+    guid: 3a53c4c95872e554cb889e0df1c548e1
+  - enabled: 1
+    path: Assets/Scenes/Knife1.unity
+    guid: cd445d1ae925c7843928d314703fcca3
+  - enabled: 1
+    path: Assets/Scenes/Ball.unity
+    guid: 5ad36afc691787b4b9100e82869b2b98
+  - enabled: 1
+    path: Assets/Scenes/Pairs/Saddle-Candle.unity
+    guid: 7d8ffa769fa61164384137654d6a9a0f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial5.unity
+    guid: 8aeb115d9de0ab543af096dd8c24eb75
+  - enabled: 1
+    path: Assets/Scenes/Tutorial4.unity
+    guid: 5033a5970ba87c94da6d3df1dd25d2de
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: e98d4ec9a2916cc49a20808b4d3fd71d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: e445829510b732e43965342873eff05d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Ball1.unity
-    guid: 54e860f3c4368ae44aafa3d3a0ce30d8
+    guid: 6e5cd09ad67f5eb40b3ccff074a9d12f
   m_configObjects: {}

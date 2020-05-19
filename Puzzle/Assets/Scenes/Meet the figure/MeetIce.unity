@@ -221,7 +221,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a077adbbb6b3b1b40a7a628ef146e33c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 171070813b6c988478fbd5dce9bd5a14, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -240,8 +240,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 991603851}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 484, y: 164, z: 0}
-  m_LocalScale: {x: 163.32317, y: 136.12685, z: 1}
+  m_LocalPosition: {x: 475, y: 172, z: 0}
+  m_LocalScale: {x: 82.31487, y: 78.409065, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -253,6 +253,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 286
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -169
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 150.6
+      objectReference: {fileID: 0}
     - target: {fileID: 4157456321357361047, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: audioClips.Array.data[0]
@@ -418,6 +433,16 @@ PrefabInstance:
       propertyPath: audioClips.Array.data[0]
       value: 
       objectReference: {fileID: 8300000, guid: 0922e83a86aff1e4297f83c6f274c12a, type: 3}
+    - target: {fileID: 8407801638334871764, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8407801638334871764, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 137
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57606fb2af8639b45a1dce21f3767f8b, type: 3}
 --- !u!1 &1275686248 stripped

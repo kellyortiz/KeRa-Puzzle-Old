@@ -172,6 +172,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 286
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -169
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443508237018235560, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 150.6
+      objectReference: {fileID: 0}
     - target: {fileID: 4157456321357361047, guid: 57606fb2af8639b45a1dce21f3767f8b,
         type: 3}
       propertyPath: audioClips.Array.data[0]
@@ -337,6 +352,16 @@ PrefabInstance:
       propertyPath: audioClips.Array.data[0]
       value: 
       objectReference: {fileID: 8300000, guid: b904c14d7a8edee47924e1bd3f772c5f, type: 3}
+    - target: {fileID: 8407801638334871764, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8407801638334871764, guid: 57606fb2af8639b45a1dce21f3767f8b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 137
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57606fb2af8639b45a1dce21f3767f8b, type: 3}
 --- !u!1 &790643947 stripped
@@ -420,8 +445,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1534684749}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 490, y: 158, z: 0}
-  m_LocalScale: {x: 104.91394, y: 120.18832, z: 1}
+  m_LocalPosition: {x: 482, y: 168.6, z: 0}
+  m_LocalScale: {x: 79.31494, y: 90.862366, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
